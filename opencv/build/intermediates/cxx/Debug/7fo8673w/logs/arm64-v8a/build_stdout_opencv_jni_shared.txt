@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\andriodRider-android_app\opencv\.cxx\Debug\7fo8673w\arm64-v8a'
+ninja: no work to do.

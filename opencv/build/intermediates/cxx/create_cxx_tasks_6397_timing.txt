@@ -1,0 +1,14 @@
+# C/C++ build system timings
+create_cxx_tasks
+  create-initial-cxx-model
+    create-module-model
+      create-ndk-meta-abi-list 25ms
+      create-cmake-model 97ms
+    create-module-model completed in 126ms
+    create-module-model
+      create-cmake-model 100ms
+    create-module-model completed in 104ms
+    [gap of 13ms]
+  create-initial-cxx-model completed in 256ms
+create_cxx_tasks completed in 257ms
+

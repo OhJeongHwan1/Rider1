@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rider</string>
+    <string name="title_name">일어나라이더</string>
+    <string name="title_touch">화면을 터치해주세요</string>
+    <string name="menu_option">설정</string>
+    <string name="option_size">카메라 설정</string>
+    <string name="option_sound">알림음 설정</string>
+    <string name="menu_use">사용 방법</string>
+    <string name="menu_contact">Contact us</string>
+    <string name="menu_start">시작하기</string>
+    <string name="menu_today">오늘의 주행 \n\n 총 00시간 00분 00초</string>
+    <string name="contactus">안녕하세요. \n\n오늘도 \'일어나라이더\'를 사용해주셔서 감사합니다. \n\n건의사항 및 기타 문의사항은 아래로 연락 부탁드립니다.
+        \n\n\n\n\n\n-Tel: 010-7378-3028 \n\n-E-mail: sodud39@koreatech.ac.kr</string>
+
+    <string name="face_text1">얼굴 감지 중.. \n고정된 자세를 잡아주세요.</string>
+    <string name="face_ready">시작하기</string>
+
+    <string name="ready_text1">얼굴 감지 준비를 마쳤습니다.</string>
+    <string name="driving_safe">안전 운전 중</string>
+
+    <string name="warning_text">졸음 감지!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

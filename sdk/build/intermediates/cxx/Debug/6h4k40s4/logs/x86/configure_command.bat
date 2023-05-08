@@ -1,0 +1,19 @@
+@echo off
+"C:\\Users\\82107\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\82107\\AndroidStudioProjects\\Rider\\sdk\\libcxx_helper" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=21" ^
+  "-DANDROID_PLATFORM=android-21" ^
+  "-DANDROID_ABI=x86" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=x86" ^
+  "-DANDROID_NDK=C:\\Users\\82107\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\82107\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\82107\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\82107\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\82107\\AndroidStudioProjects\\Rider\\sdk\\build\\intermediates\\cxx\\Debug\\6h4k40s4\\obj\\x86" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\82107\\AndroidStudioProjects\\Rider\\sdk\\build\\intermediates\\cxx\\Debug\\6h4k40s4\\obj\\x86" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\82107\\AndroidStudioProjects\\Rider\\sdk\\.cxx\\Debug\\6h4k40s4\\x86" ^
+  -GNinja ^
+  "-DANDROID_STL=c++_shared"
